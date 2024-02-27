@@ -1,4 +1,4 @@
-# News Application
+# TechSamachar- The News Application
 
 This project is a news application built to provide users with easily accessible and categorized news content. It offers a range of news categories including Technology, General, Business, Entertainment, Health, Science, and Sports, allowing users to stay informed about various topics of interest.
 
